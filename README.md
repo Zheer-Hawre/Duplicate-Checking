@@ -39,9 +39,4 @@ This automation streamlines the verification process, allowing the client to foc
   - `pandas`
   - `openpyxl`
 
-## Installation
-
-1. Clone this repository.
-   ```bash
-   git clone https://github.com/your-username/passport-entry-automation.git
 
