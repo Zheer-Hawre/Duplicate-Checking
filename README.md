@@ -12,8 +12,6 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
 ## Key Features
 
 * Add two excel files with a column named "passport" since it is our popuse here (you can customize it based on your need)
