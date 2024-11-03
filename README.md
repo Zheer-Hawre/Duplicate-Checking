@@ -7,10 +7,6 @@
 
 <h4 align="center">A simple automation programme that checks duplicates for 2 excel files</h4>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-</p>
 
 ## Key Features
 
